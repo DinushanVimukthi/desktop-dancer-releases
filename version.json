@@ -1,0 +1,38 @@
+{
+  "app_version": "1.0.0",
+  "release_date": "2026-11-23",
+  "release_notes": "Initial release of Desktop Dancer with 30 FPS Animated WebP support, Scooby-Doo, Sonic, Vibing Cat, and Pikachu!",
+  "download_url": "https://github.com/DinushanVimukthi/desktop-dancer-releases/releases/latest",
+  "characters": {
+    "scooby": {
+      "name": "Scooby-Doo",
+      "version": "1.0.0",
+      "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/scooby/idle.webp",
+      "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/scooby/dance.webp"
+    },
+    "sonic": {
+      "name": "Sonic the Hedgehog",
+      "version": "1.0.0",
+      "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/sonic/idle.webp",
+      "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/sonic/dance.webp"
+    },
+    "vibing_cat": {
+      "name": "Vibing Cat (Meme)",
+      "version": "1.0.0",
+      "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/vibing_cat/idle.webp",
+      "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/vibing_cat/dance.webp"
+    },
+    "pikachu": {
+      "name": "Pikachu",
+      "version": "1.0.0",
+      "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/pikachu/idle.webp",
+      "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/pikachu/dance.webp"
+    },
+    "mascot": {
+      "name": "Cartoon Dog Mascot",
+      "version": "1.0.0",
+      "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/mascot/idle.webp",
+      "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/mascot/dance.webp"
+    }
+  }
+}
