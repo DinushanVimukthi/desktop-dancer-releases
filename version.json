@@ -1,54 +1,54 @@
 {
-  "app_version": "1.1.0",
+  "app_version": "1.2.0",
   "release_date": "2026-11-23",
-  "release_notes": "Extended realistic choreographies: authentic Microsoft Plus! 3D Scooby-Doo (900 frames / 30s), live-action dancers Amanda & Seth, ballerina Clippy, and extended 144-frame dance progressions",
-  "download_url": "https://github.com/DinushanVimukthi/desktop-dancer-releases/releases/tag/v1.1.0",
+  "release_notes": "High-DPI enhancement: bilateral filtering, unsharp masking, sub-pixel alpha smoothing, 512px vector resolution, SmoothPixmapTransform display pipeline, large and xlarge presets",
+  "download_url": "https://github.com/DinushanVimukthi/desktop-dancer-releases/releases/tag/v1.2.0",
   "characters": {
     "amanda": {
       "name": "Amanda (House Dancer)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/amanda/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/amanda/dance.webp"
     },
     "clippy": {
       "name": "Clippy (Ballet Dancer)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/clippy/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/clippy/dance.webp"
     },
     "mascot": {
       "name": "Cartoon Dog Mascot",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/mascot/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/mascot/dance.webp"
     },
     "pikachu": {
       "name": "Pikachu",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/pikachu/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/pikachu/dance.webp"
     },
     "scooby": {
       "name": "Scooby-Doo (3D Breakdancer)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/scooby/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/scooby/dance.webp"
     },
     "seth": {
       "name": "Seth (Breakdancer)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/seth/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/seth/dance.webp"
     },
     "sonic": {
       "name": "Sonic the Hedgehog",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/sonic/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/sonic/dance.webp"
     },
     "vibing_cat": {
       "name": "Vibing Cat (Meme)",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "idle_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/vibing_cat/idle.webp",
       "dance_url": "https://raw.githubusercontent.com/DinushanVimukthi/desktop-dancer-releases/main/characters/vibing_cat/dance.webp"
     }
